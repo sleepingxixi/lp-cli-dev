@@ -10,6 +10,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "bin": {
+    "lp-cli-dev": "./bin/index.js"
+  },
   "files": [
     "lib"
   ],
@@ -22,5 +25,6 @@
   },
   "dependencies": {
     "lp-cli-lib": "^1.0.1"
-  }
+  },
+  "gitHead": "23d0d04db5e259887a3b4fe036adaff10bcc1bf3"
 }
