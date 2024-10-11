@@ -17,7 +17,6 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/",
     "access": "public"
   },
   "scripts": {
@@ -27,5 +26,5 @@
   "dependencies": {
     "lp-cli-lib": "^1.0.1"
   },
-  "gitHead": "be72a68e40c9a422f5b56e4d0bfc4bbb3679d680"
+  "gitHead": "a4db3f579e2c23b9fff18316b5307545548f09b9"
 }
